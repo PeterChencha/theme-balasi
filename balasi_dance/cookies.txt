@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.google.com	TRUE	/	FALSE	1999999999	NID	85=WIESI-gDj1svNH0JDAdg61C9IcOC5stzEPotLBrzoE_YccezxI315Ee5GewwXMBB2k4LWAL9qflRVrrgJmEWwOTtw7UqN-0Qlbqd6b6gkTmcxjp8JmqX3437iv22qsQQ
+.dance-studio.cmsmasters.net	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+.dance-studio.cmsmasters.net	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	089a87ca0d062d6370366c7b4c95d9e9
+.dance-studio.cmsmasters.net	TRUE	/	FALSE	1999999999	wp_woocommerce_session_2571b10e50e1f49b90a8035e48395cbd	9f54422a07becc5202b19bfb2c8b4a77%7C%7C1472158031%7C%7C1472154431%7C%7Ce040e3127350f3f32ca076c725a04957
+

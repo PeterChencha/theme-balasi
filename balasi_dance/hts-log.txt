@@ -1,0 +1,300 @@
+HTTrack3.48-22+htsswf+htsjava launched on Tue, 23 Aug 2016 23:10:46 at http://dance-studio.cmsmasters.net/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://dance-studio.cmsmasters.net/ -O1 "E:\users\MKURUGENZI 1\Documents\projects\balasi\balasi_dance" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:10:47	Warning: 	Note: due to dance-studio.cmsmasters.net remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+23:18:21	Error: 	"Method Not Allowed" (405) at link dance-studio.cmsmasters.net/xmlrpc.php (from dance-studio.cmsmasters.net/)
+23:22:26	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): dance-studio.cmsmasters.net/wp-content/plugins/cmsmasters-contact-form-builder/inc/form-builder-sendmail.php
+23:33:26	Warning: 	Retry after error -2 (Receive Time Out) at link dance-studio.cmsmasters.net/tabs-tours/ (from dance-studio.cmsmasters.net/)
+23:35:08	Warning: 	Retry after error -2 (Receive Time Out) at link dance-studio.cmsmasters.net/wp-content/uploads/2016/03/2015-03-04-ballet.ogv (from dance-studio.cmsmasters.net/)
+23:35:08	Warning: 	Retry after error -2 (Receive Time Out) at link dance-studio.cmsmasters.net/wp-content/uploads/2015/04/2.jpg (from dance-studio.cmsmasters.net/)
+23:35:08	Error: 	"Forbidden" (403) at link dance-studio.cmsmasters.net/wp-content/plugins/cmsmasters-content-composer/ (from dance-studio.cmsmasters.net/)
+23:38:39	Warning: 	Retry after error -2 (Receive Time Out) at link dance-studio.cmsmasters.net/dance-music/ (from dance-studio.cmsmasters.net/)
+23:38:54	Warning: 	File not parsed, looks like binary: dance-studio.cmsmasters.net/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.ttf?5510888
+23:38:54	Warning: 	File not parsed, looks like binary: dance-studio.cmsmasters.net/wp-content/plugins/revslider/public/assets/css/openhand.cur
+23:38:54	Warning: 	File not parsed, looks like binary: dance-studio.cmsmasters.net/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+23:38:54	Warning: 	File not parsed, looks like binary: dance-studio.cmsmasters.net/wp-content/themes/dance-studio/css/fonts/fontello.ttf?67166820
+23:38:54	Warning: 	File not parsed, looks like binary: dance-studio.cmsmasters.net/wp-content/themes/dance-studio/css/fonts/fontello-custom.ttf?41743957
+23:38:54	Warning: 	File not parsed, looks like binary: dance-studio.cmsmasters.net/wp-content/themes/dance-studio/img/ilightbox/closedhand.cur
+23:38:54	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=60
+23:38:54	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=60 to http://dance-studio.cmsmasters.net/about/
+23:38:58	Warning: 	Retry after error -2 (Receive Time Out) at link dance-studio.cmsmasters.net/wp-content/uploads/2015/04/Depositphotos_14925675_origina1l-300x300.jpg (from dance-studio.cmsmasters.net/about/)
+23:39:14	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=6416
+23:39:14	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=6416 to http://dance-studio.cmsmasters.net/registration/
+23:39:14	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=533
+23:39:14	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=533 to http://dance-studio.cmsmasters.net/standard/
+23:39:42	Warning: 	Retry after error -2 (Receive Time Out) at link dance-studio.cmsmasters.net/wp-content/uploads/2015/07/Depositphotos_90268892_original1-1-860x572.jpg (from dance-studio.cmsmasters.net/standard/)
+23:40:43	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=535
+23:40:43	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=535 to http://dance-studio.cmsmasters.net/timeline/
+23:40:43	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=537
+23:40:43	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=537 to http://dance-studio.cmsmasters.net/columns/
+23:40:43	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=7677
+23:40:43	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=7677 to http://dance-studio.cmsmasters.net/gallery-2/
+23:41:12	Warning: 	Retry after error -2 (Receive Time Out) at link dance-studio.cmsmasters.net/wp-content/uploads/2016/03/Depositphotos_5439336_original.gif (from dance-studio.cmsmasters.net/gallery-2/)
+23:44:36	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=4952
+23:44:36	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=4952 to http://dance-studio.cmsmasters.net/contact/
+23:47:04	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=5297
+23:47:04	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=5297 to http://dance-studio.cmsmasters.net/classes/
+23:47:04	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=7731
+23:47:04	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=7731 to http://dance-studio.cmsmasters.net/schedule/
+23:49:15	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=74
+23:49:15	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=74 to http://dance-studio.cmsmasters.net/blog-shortcode/
+23:49:15	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=7461
+23:49:15	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=7461 to http://dance-studio.cmsmasters.net/buttons-icons-2/
+23:49:15	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=151
+23:49:15	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=151 to http://dance-studio.cmsmasters.net/clients/
+23:49:15	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=163
+23:49:15	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=163 to http://dance-studio.cmsmasters.net/contact-forms/
+23:49:15	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=169
+23:49:15	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=169 to http://dance-studio.cmsmasters.net/counters-progress-bars/
+23:49:15	Warning: 	Retry after error -2 (Receive Time Out) at link dance-studio.cmsmasters.net/wp-content/uploads/2015/04/Depositphotos_15547985_original.jpg (from dance-studio.cmsmasters.net/counters-progress-bars/)
+23:49:17	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=213
+23:49:17	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=213 to http://dance-studio.cmsmasters.net/custom-html-css-js/
+23:49:17	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=216
+23:49:17	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=216 to http://dance-studio.cmsmasters.net/dividers/
+23:49:17	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=231
+23:49:17	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=231 to http://dance-studio.cmsmasters.net/embedded/
+23:49:17	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=252
+23:49:17	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=252 to http://dance-studio.cmsmasters.net/featured-blocks/
+23:49:17	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=261
+23:49:17	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=261 to http://dance-studio.cmsmasters.net/gallery/
+23:49:17	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=270
+23:49:17	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=270 to http://dance-studio.cmsmasters.net/google-maps/
+23:49:17	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=289
+23:49:17	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=289 to http://dance-studio.cmsmasters.net/icon-boxes/
+23:49:17	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=317
+23:49:17	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=317 to http://dance-studio.cmsmasters.net/icon-lists/
+23:49:17	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=358
+23:49:17	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=358 to http://dance-studio.cmsmasters.net/images/
+23:49:17	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=375
+23:49:17	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=375 to http://dance-studio.cmsmasters.net/notice-boxes/
+23:49:17	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=545
+23:49:17	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=545 to http://dance-studio.cmsmasters.net/portfolio-shortcode/
+23:50:45	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=391
+23:50:45	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=391 to http://dance-studio.cmsmasters.net/posts-or-projects-slider/
+23:50:52	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=401
+23:50:52	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=401 to http://dance-studio.cmsmasters.net/pricing-tables/
+23:50:52	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=405
+23:50:52	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=405 to http://dance-studio.cmsmasters.net/profiles/
+23:50:52	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=426
+23:50:52	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=426 to http://dance-studio.cmsmasters.net/quotes/
+23:50:52	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=430
+23:50:52	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=430 to http://dance-studio.cmsmasters.net/sidebar/
+23:50:52	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=434
+23:50:52	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=434 to http://dance-studio.cmsmasters.net/sliders/
+23:50:52	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=548
+23:50:52	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=548 to http://dance-studio.cmsmasters.net/social-sharing/
+23:51:03	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=552
+23:51:03	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=552 to http://dance-studio.cmsmasters.net/special-headings/
+23:51:03	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=564
+23:51:03	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=564 to http://dance-studio.cmsmasters.net/tables/
+23:51:06	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=575
+23:51:06	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=575 to http://dance-studio.cmsmasters.net/toggles-accordions/
+23:51:06	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=586
+23:51:06	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=586 to http://dance-studio.cmsmasters.net/tweets/
+23:51:06	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=882
+23:51:06	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=882 to http://dance-studio.cmsmasters.net/standard-blog/
+23:51:06	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=887
+23:51:06	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=887 to http://dance-studio.cmsmasters.net/masonry-blog/
+23:51:09	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=889
+23:51:09	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=889 to http://dance-studio.cmsmasters.net/timeline-blog/
+23:51:09	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=901
+23:51:09	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=901 to http://dance-studio.cmsmasters.net/projects-grid/
+23:51:09	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=903
+23:51:09	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=903 to http://dance-studio.cmsmasters.net/no-gap-projects-grid/
+23:51:09	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=907
+23:51:09	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=907 to http://dance-studio.cmsmasters.net/1-pixel-gap-projects-grid/
+23:51:09	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=922
+23:51:09	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=922 to http://dance-studio.cmsmasters.net/large-gap-masonry/
+23:51:22	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=919
+23:51:22	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=919 to http://dance-studio.cmsmasters.net/no-gap-masonry/
+23:51:22	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=924
+23:51:22	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=924 to http://dance-studio.cmsmasters.net/1-pixel-gap-masonry/
+23:51:22	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=933
+23:51:22	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=933 to http://dance-studio.cmsmasters.net/horizontal/
+23:51:22	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=929
+23:51:22	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=929 to http://dance-studio.cmsmasters.net/vertical/
+23:51:22	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=410
+23:51:22	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=410 to http://dance-studio.cmsmasters.net/profile/tyler-carter/
+23:51:57	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=1077
+23:51:57	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=1077 to http://dance-studio.cmsmasters.net/project/jazz-funk/
+23:51:57	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=913
+23:51:57	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=913 to http://dance-studio.cmsmasters.net/project/modern-dance/
+23:51:57	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=774
+23:51:57	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=774 to http://dance-studio.cmsmasters.net/project/house-dance/
+23:51:57	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=619
+23:51:57	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=619 to http://dance-studio.cmsmasters.net/project/strip-dance/
+23:51:57	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=617
+23:51:57	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=617 to http://dance-studio.cmsmasters.net/project/disco-dance/
+23:51:57	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=615
+23:51:57	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=615 to http://dance-studio.cmsmasters.net/project/tango/
+23:52:01	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=5150
+23:52:01	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=5150 to http://dance-studio.cmsmasters.net/event/exit-festival/2016-04-04/
+23:52:09	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=5127
+23:52:09	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=5127 to http://dance-studio.cmsmasters.net/venue/central-park/
+23:52:19	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=5151
+23:52:19	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=5151 to http://dance-studio.cmsmasters.net/organizer/linda-ford-2/
+23:52:21	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=6599
+23:52:21	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=6599 to http://dance-studio.cmsmasters.net/event/ladies-at-the-barre-ballet-directors-choice/2016-04-15/
+23:52:27	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=5142
+23:52:27	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=5142 to http://dance-studio.cmsmasters.net/venue/capital-hilton/
+23:52:33	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=5131
+23:52:33	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=5131 to http://dance-studio.cmsmasters.net/organizer/kate-sims/
+23:52:33	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=956
+23:52:33	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=956 to http://dance-studio.cmsmasters.net/event/dance-now-mexico/2016-04-25/
+23:52:45	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=5134
+23:52:45	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=5134 to http://dance-studio.cmsmasters.net/organizer/jacob-taylor/
+23:52:46	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=5032
+23:52:46	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=5032 to http://dance-studio.cmsmasters.net/why-is-dancing-so-good-for-your-brain/
+23:52:47	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=5030
+23:52:47	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=5030 to http://dance-studio.cmsmasters.net/tips-for-getting-started/
+23:52:50	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=5028
+23:52:50	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=5028 to http://dance-studio.cmsmasters.net/dance-floor-courtesy/
+23:52:51	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=5026
+23:52:51	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=5026 to http://dance-studio.cmsmasters.net/ask-me-to-dance/
+23:52:54	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=7096
+23:52:54	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=7096 to http://dance-studio.cmsmasters.net/dance-your-way-to-good-health/
+23:52:57	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=1965
+23:52:57	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=1965 to http://dance-studio.cmsmasters.net/disco-days/
+23:52:58	Warning: 	Retry after error -2 (Receive Time Out) at link dance-studio.cmsmasters.net/wp-content/uploads/2015/05/Depositphotos_74087675_original-1-1160x773.jpg (from dance-studio.cmsmasters.net/disco-days/)
+23:53:02	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=91
+23:53:02	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=91 to http://dance-studio.cmsmasters.net/dancing-makes-you-smarter/
+23:53:02	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=285
+23:53:02	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=285 to http://dance-studio.cmsmasters.net/social-dancing-art-or-sport/
+23:53:02	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=103
+23:53:02	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=103 to http://dance-studio.cmsmasters.net/dance-as-a-form-of-exercise/
+23:53:02	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=446
+23:53:02	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=446 to http://dance-studio.cmsmasters.net/profile/grace-dean/
+23:53:02	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=408
+23:53:02	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=408 to http://dance-studio.cmsmasters.net/profile/ava-brooks/
+23:53:02	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=406
+23:53:02	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=406 to http://dance-studio.cmsmasters.net/profile/brooke-keat/
+23:53:11	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=7674
+23:53:11	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=7674 to http://dance-studio.cmsmasters.net/project/dour-festival/
+23:53:11	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=7679
+23:53:11	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=7679 to http://dance-studio.cmsmasters.net/project/sziget-festival/
+23:53:11	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=7694
+23:53:11	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=7694 to http://dance-studio.cmsmasters.net/project/wireless-festival/
+23:53:11	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=7692
+23:53:11	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=7692 to http://dance-studio.cmsmasters.net/project/volt-festival/
+23:53:11	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=7689
+23:53:11	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=7689 to http://dance-studio.cmsmasters.net/project/balaton-sound/
+23:53:11	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=7687
+23:53:11	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=7687 to http://dance-studio.cmsmasters.net/project/frequency-festival/
+23:53:11	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=7684
+23:53:11	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=7684 to http://dance-studio.cmsmasters.net/project/lowlands/
+23:53:11	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=7682
+23:53:11	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=7682 to http://dance-studio.cmsmasters.net/project/bestival/
+23:53:11	Warning: 	Retry after error -2 (Receive Time Out) at link dance-studio.cmsmasters.net/wp-content/plugins/the-events-calendar/vendor/jquery/smoothness/images/ui-icons_2e83ff_256x240.png (from dance-studio.cmsmasters.net/wp-content/plugins/the-events-calendar/vendor/jquery/smoothness/jquery-ui-1.8.23.custom.css?ver=4.5.3)
+23:54:43	Warning: 	Retry after error -2 (Receive Time Out) at link dance-studio.cmsmasters.net/events/2016-08-08/?ical=1/ (from dance-studio.cmsmasters.net/events/2016-08-08/)
+23:54:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): dance-studio.cmsmasters.net/events/2016-08-08/?ical=1/
+23:54:52	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=6292
+23:54:52	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=6292 to http://dance-studio.cmsmasters.net/product/ballroom-dress/
+23:55:00	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=6293
+23:55:00	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=6293 to http://dance-studio.cmsmasters.net/product/dance-jacket/
+23:55:01	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=6287
+23:55:01	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=6287 to http://dance-studio.cmsmasters.net/product/dress-diva-dance/
+23:55:01	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=6276
+23:55:01	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=6276 to http://dance-studio.cmsmasters.net/product/exclusive-dance-shoes/
+23:55:01	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=5122
+23:55:01	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=5122 to http://dance-studio.cmsmasters.net/product/pointe-shoes/
+23:55:01	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=6290
+23:55:01	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=6290 to http://dance-studio.cmsmasters.net/product/red-dress/
+23:55:02	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=6289
+23:55:02	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=6289 to http://dance-studio.cmsmasters.net/product/reel-shoes/
+23:55:02	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=6295
+23:55:02	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=6295 to http://dance-studio.cmsmasters.net/product/sneakers-for-women/
+23:55:02	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=6294
+23:55:02	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=6294 to http://dance-studio.cmsmasters.net/product/yellow-shoes/
+23:55:02	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=6082
+23:55:02	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=6082 to http://dance-studio.cmsmasters.net/events/jazz-funk/
+23:55:05	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=6058
+23:55:05	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=6058 to http://dance-studio.cmsmasters.net/events/modern/
+23:55:07	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=6051
+23:55:07	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=6051 to http://dance-studio.cmsmasters.net/events/disco/
+23:55:07	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=6044
+23:55:07	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=6044 to http://dance-studio.cmsmasters.net/events/tango/
+23:55:07	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=6036
+23:55:07	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=6036 to http://dance-studio.cmsmasters.net/events/ballet/
+23:55:08	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=6025
+23:55:08	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=6025 to http://dance-studio.cmsmasters.net/events/hip-hop/
+23:55:08	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=6057
+23:55:08	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=6057 to http://dance-studio.cmsmasters.net/events/strip/
+23:55:08	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=613
+23:55:08	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=613 to http://dance-studio.cmsmasters.net/project/ballet/
+23:55:08	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=611
+23:55:08	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=611 to http://dance-studio.cmsmasters.net/project/breaking/
+23:55:08	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=606
+23:55:08	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=606 to http://dance-studio.cmsmasters.net/project/latin-dance/
+23:55:08	Error: 	"Not Found" (404) at link dance-studio.cmsmasters.net/social-sharing/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from connect.facebook.net/en_US/sdk.js)
+23:55:09	Error: 	"Not Found" (404) at link dance-studio.cmsmasters.net/restserver.php (from connect.facebook.net/en_US/sdk.js)
+23:55:09	Error: 	"Not Found" (404) at link dance-studio.cmsmasters.net/social-sharing/dialog/ (from connect.facebook.net/en_US/sdk.js)
+23:55:09	Error: 	"Bad Request" (400) at link dance-studio.cmsmasters.net/social-sharing/%s/profile.php?id=%s (from connect.facebook.net/en_US/sdk.js)
+23:55:09	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=567
+23:55:09	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=567 to http://dance-studio.cmsmasters.net/tabs-tours/
+23:55:09	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/masonry-blog/page/1/
+23:55:09	Warning: 	File has moved from dance-studio.cmsmasters.net/masonry-blog/page/1/ to http://dance-studio.cmsmasters.net/masonry-blog/
+23:55:09	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=5793
+23:55:09	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=5793 to http://dance-studio.cmsmasters.net/project/house-dance-2/
+23:55:09	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=5801
+23:55:09	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=5801 to http://dance-studio.cmsmasters.net/project/breaking-2/
+23:55:09	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=5803
+23:55:09	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=5803 to http://dance-studio.cmsmasters.net/project/strip-dance-2/
+23:55:09	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=5806
+23:55:09	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=5806 to http://dance-studio.cmsmasters.net/project/modern-dance-2/
+23:55:09	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=850
+23:55:09	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=850 to http://dance-studio.cmsmasters.net/event/dancewoods-festival/2016-04-29/
+23:55:09	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=8323
+23:55:09	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=8323 to http://dance-studio.cmsmasters.net/event/exit-festival/2016-05-04/
+23:55:09	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=8321
+23:55:09	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=8321 to http://dance-studio.cmsmasters.net/event/ladies-at-the-barre-ballet-directors-choice/2016-05-15/
+23:55:09	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=8319
+23:55:09	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=8319 to http://dance-studio.cmsmasters.net/event/dance-now-mexico/2016-05-25/
+23:55:09	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=8320
+23:55:09	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=8320 to http://dance-studio.cmsmasters.net/event/dancewoods-festival/2016-05-29/
+23:55:09	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=8324
+23:55:09	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=8324 to http://dance-studio.cmsmasters.net/event/exit-festival/2016-06-04/
+23:55:09	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=843
+23:55:09	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=843 to http://dance-studio.cmsmasters.net/event/melt-festival-2016/2016-06-08/
+23:55:09	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=8322
+23:55:09	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=8322 to http://dance-studio.cmsmasters.net/event/ladies-at-the-barre-ballet-directors-choice/2016-06-15/
+23:56:21	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=1073
+23:56:21	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=1073 to http://dance-studio.cmsmasters.net/venue/university-of-maryland/
+23:56:23	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=5146
+23:56:23	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=5146 to http://dance-studio.cmsmasters.net/organizer/jacob-taylor-2/
+23:56:26	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=5147
+23:56:26	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=5147 to http://dance-studio.cmsmasters.net/venue/island-of-ischia/
+23:56:29	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=5130
+23:56:29	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=5130 to http://dance-studio.cmsmasters.net/organizer/linda-ford/
+23:57:33	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=5136
+23:57:33	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=5136 to http://dance-studio.cmsmasters.net/organizer/kate-sims-2/
+23:57:33	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=1963
+23:57:33	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=1963 to http://dance-studio.cmsmasters.net/dance-music/
+23:57:33	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/author/cmsmasters/page/1/
+23:57:33	Warning: 	File has moved from dance-studio.cmsmasters.net/author/cmsmasters/page/1/ to http://dance-studio.cmsmasters.net/author/cmsmasters/
+23:59:04	Warning: 	File not parsed, looks like binary: dance-studio.cmsmasters.net/wp-content/plugins/woocommerce/assets/fonts/star.ttf
+23:59:04	Warning: 	File not parsed, looks like binary: dance-studio.cmsmasters.net/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.ttf
+23:59:04	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=3840
+23:59:04	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=3840 to http://dance-studio.cmsmasters.net/cart/
+00:00:39	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=5141
+00:00:39	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=5141 to http://dance-studio.cmsmasters.net/organizer/chelle-swierz-tina-templeman/
+00:00:39	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=5152
+00:00:39	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=5152 to http://dance-studio.cmsmasters.net/venue/unnamed-venue/
+00:00:39	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=1353
+00:00:39	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=1353 to http://dance-studio.cmsmasters.net/organizer/andrew-doe/
+00:01:57	Warning: 	Moved Permanently for dance-studio.cmsmasters.net/?p=5139
+00:01:57	Warning: 	File has moved from dance-studio.cmsmasters.net/?p=5139 to http://dance-studio.cmsmasters.net/organizer/theresa-elliott/
+00:05:18	Warning: 	Retry after error -4 (No data (connection closed)) at link dance-studio.cmsmasters.net/events/category/festival/2016-09-29/?ical=1/ (from dance-studio.cmsmasters.net/events/category/festival/2016-09-29/)
+00:06:08	Warning: 	Retry after error -4 (No data (connection closed)) at link dance-studio.cmsmasters.net/events/category/for-free/2016-07-17/?ical=1/ (from dance-studio.cmsmasters.net/events/category/for-free/2016-07-17/)
+00:07:54	Warning: 	Retry after error -2 (Receive Time Out) at link dance-studio.cmsmasters.net/events/2016-12-03/?ical=1/ (from dance-studio.cmsmasters.net/events/2016-12-03/)
+00:07:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): dance-studio.cmsmasters.net/events/2016-12-03/?ical=1/
+00:09:06	Warning: 	Retry after error -2 (Receive Time Out) at link dance-studio.cmsmasters.net/events/category/festival/2016-10-11/?ical=1/ (from dance-studio.cmsmasters.net/events/category/festival/2016-10-11/)
+00:09:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): dance-studio.cmsmasters.net/events/category/festival/2016-10-11/?ical=1/
+00:13:55	Warning: 	Retry after error -4 (No data (connection closed)) at link dance-studio.cmsmasters.net/events/category/festival/2016-12-31/?ical=1/ (from dance-studio.cmsmasters.net/events/category/festival/2016-12-31/)
+
+HTTrack Website Copier/3.48-22 mirror complete in 1 hours 11 minutes 6 seconds : 3871 links scanned, 3721 files written (193670437 bytes overall) [76458149 bytes received at 17922 bytes/sec], 138596880 bytes transferred using HTTP compression in 1924 files, ratio 14%, 12.8 requests per connection
+(6 errors, 283 warnings, 0 messages)
